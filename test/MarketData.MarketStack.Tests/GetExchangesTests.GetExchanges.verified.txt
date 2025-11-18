@@ -1,0 +1,552 @@
+﻿[
+  {
+    Name: NASDAQ Stock Exchange,
+    Mic: XNAS,
+    ShortName: NASDAQ,
+    CountryCode: US,
+    City: New York,
+    SourceSymbol: XNAS
+  },
+  {
+    Name: New York Stock Exchange,
+    Mic: XNYS,
+    ShortName: NYSE,
+    CountryCode: US,
+    City: New York,
+    SourceSymbol: XNYS
+  },
+  {
+    Name: NYSE ARCA,
+    Mic: ARCX,
+    ShortName: NYSEARCA,
+    CountryCode: US,
+    City: New York,
+    SourceSymbol: ARCX
+  },
+  {
+    Name: OTC Markets,
+    Mic: OTCM,
+    ShortName: ,
+    CountryCode: US,
+    City: New York,
+    SourceSymbol: OTCM
+  },
+  {
+    Name: Buenos Aires Stock Exchange,
+    Mic: XBUE,
+    ShortName: BCBA,
+    CountryCode: AR,
+    City: Buenos Aires,
+    SourceSymbol: XBUE
+  },
+  {
+    Name: Bahrein Bourse,
+    Mic: XBAH,
+    ShortName: BSE,
+    CountryCode: BH,
+    City: Manama,
+    SourceSymbol: XBAH
+  },
+  {
+    Name: Euronext Brussels,
+    Mic: XBRU,
+    ShortName: Euronext,
+    CountryCode: BE,
+    City: Brussels,
+    SourceSymbol: XBRU
+  },
+  {
+    Name: B3 - Brasil Bolsa Balcão S.A,
+    Mic: BVMF,
+    ShortName: Bovespa,
+    CountryCode: BR,
+    City: Sao Paulo,
+    SourceSymbol: BVMF
+  },
+  {
+    Name: Toronto Stock Exchange,
+    Mic: XTSE,
+    ShortName: TSX,
+    CountryCode: CA,
+    City: Toronto,
+    SourceSymbol: XTSE
+  },
+  {
+    Name: Canadian Securities Exchange,
+    Mic: XCNQ,
+    ShortName: CNSX,
+    CountryCode: CA,
+    City: Toronto,
+    SourceSymbol: XCNQ
+  },
+  {
+    Name: Santiago Stock Exchange,
+    Mic: XSGO,
+    ShortName: BVS,
+    CountryCode: CL,
+    City: Santiago,
+    SourceSymbol: XSGO
+  },
+  {
+    Name: Shanghai Stock Exchange,
+    Mic: XSHG,
+    ShortName: SSE,
+    CountryCode: CN,
+    City: Shanghai,
+    SourceSymbol: XSHG
+  },
+  {
+    Name: Shenzhen Stock Exchange,
+    Mic: XSHE,
+    ShortName: SZSE,
+    CountryCode: CN,
+    City: Shenzhen,
+    SourceSymbol: XSHE
+  },
+  {
+    Name: Bolsa de Valores de Colombia,
+    Mic: XBOG,
+    ShortName: BVC,
+    CountryCode: CO,
+    City: Bogota,
+    SourceSymbol: XBOG
+  },
+  {
+    Name: Copenhagen Stock Exchange,
+    Mic: XCSE,
+    ShortName: OMXC,
+    CountryCode: DK,
+    City: Copenhagen,
+    SourceSymbol: XCSE
+  },
+  {
+    Name: Eqyptian Exchange,
+    Mic: XCAI,
+    ShortName: EGX,
+    CountryCode: EG,
+    City: Cairo,
+    SourceSymbol: XCAI
+  },
+  {
+    Name: Tallinn Stock Exchange,
+    Mic: XTAL,
+    ShortName: OMXT,
+    CountryCode: EE,
+    City: Tallinn,
+    SourceSymbol: XTAL
+  },
+  {
+    Name: Helsinki Stock Exchange,
+    Mic: XHEL,
+    ShortName: OMXH,
+    CountryCode: FI,
+    City: Helsinki,
+    SourceSymbol: XHEL
+  },
+  {
+    Name: Euronext Paris,
+    Mic: XPAR,
+    ShortName: Euronext,
+    CountryCode: FR,
+    City: Paris,
+    SourceSymbol: XPAR
+  },
+  {
+    Name: Deutsche Börse,
+    Mic: XFRA,
+    ShortName: FSX,
+    CountryCode: DE,
+    City: Frankfurt,
+    SourceSymbol: XFRA
+  },
+  {
+    Name: Börse Stuttgart,
+    Mic: XSTU,
+    ShortName: XSTU,
+    CountryCode: DE,
+    City: Stuttgart,
+    SourceSymbol: XSTU
+  },
+  {
+    Name: Deutsche Börse Xetra,
+    Mic: XETRA,
+    ShortName: XETR,
+    CountryCode: DE,
+    City: Frankfurt,
+    SourceSymbol: XETRA
+  },
+  {
+    Name: Hong Kong Stock Exchange,
+    Mic: XHKG,
+    ShortName: HKEX,
+    CountryCode: HK,
+    City: Hong Kong,
+    SourceSymbol: XHKG
+  },
+  {
+    Name: Nasdaq Island,
+    Mic: XICE,
+    ShortName: XICE,
+    CountryCode: IS,
+    City: Reykjavík,
+    SourceSymbol: XICE
+  },
+  {
+    Name: Bombay Stock Exchange,
+    Mic: XBOM,
+    ShortName: MSE,
+    CountryCode: IN,
+    City: Mumbai,
+    SourceSymbol: XBOM
+  },
+  {
+    Name: National Stock Exchange India,
+    Mic: XNSE,
+    ShortName: NSE,
+    CountryCode: IN,
+    City: Mumbai,
+    SourceSymbol: XNSE
+  },
+  {
+    Name: Jakarta Stock Exchange,
+    Mic: XIDX,
+    ShortName: IDX,
+    CountryCode: ID,
+    City: Jakarta,
+    SourceSymbol: XIDX
+  },
+  {
+    Name: Tel Aviv Stock Exchange,
+    Mic: XTAE,
+    ShortName: TASE,
+    CountryCode: IL,
+    City: Tel Aviv,
+    SourceSymbol: XTAE
+  },
+  {
+    Name: Borsa Italiana,
+    Mic: XMIL,
+    ShortName: MIL,
+    CountryCode: IT,
+    City: Milano,
+    SourceSymbol: XMIL
+  },
+  {
+    Name: Nagoya Stock Exchange,
+    Mic: XNGO,
+    ShortName: NSE,
+    CountryCode: JP,
+    City: Nagoya,
+    SourceSymbol: XNGO
+  },
+  {
+    Name: Fukuoka Stock Exchange,
+    Mic: XFKA,
+    ShortName: XFKA,
+    CountryCode: JP,
+    City: Fukuoka,
+    SourceSymbol: XFKA
+  },
+  {
+    Name: Sapporo Stock Exchange,
+    Mic: XSAP,
+    ShortName: XSAP,
+    CountryCode: JP,
+    City: Sapporo,
+    SourceSymbol: XSAP
+  },
+  {
+    Name: Nasdaq Riga,
+    Mic: XRIS,
+    ShortName: OMXR,
+    CountryCode: LV,
+    City: Riga,
+    SourceSymbol: XRIS
+  },
+  {
+    Name: Nasdaq Vilnius,
+    Mic: XLIT,
+    ShortName: OMXV,
+    CountryCode: LT,
+    City: Vilnius,
+    SourceSymbol: XLIT
+  },
+  {
+    Name: Malaysia Stock Exchange,
+    Mic: XKLS,
+    ShortName: MYX,
+    CountryCode: MY,
+    City: Kuala Lumpur,
+    SourceSymbol: XKLS
+  },
+  {
+    Name: Mexican Stock Exchange,
+    Mic: XMEX,
+    ShortName: BMV,
+    CountryCode: MX,
+    City: Mexico City,
+    SourceSymbol: XMEX
+  },
+  {
+    Name: Euronext Amsterdam,
+    Mic: XAMS,
+    ShortName: Euronext,
+    CountryCode: NL,
+    City: Amsterdam,
+    SourceSymbol: XAMS
+  },
+  {
+    Name: New Zealand Stock Exchange,
+    Mic: XNZE,
+    ShortName: NZX,
+    CountryCode: NZ,
+    City: Wellington,
+    SourceSymbol: XNZE
+  },
+  {
+    Name: Nigerian Stock Exchange,
+    Mic: XNSA,
+    ShortName: NSE,
+    CountryCode: NG,
+    City: Lagos,
+    SourceSymbol: XNSA
+  },
+  {
+    Name: Oslo Stock Exchange,
+    Mic: XOSL,
+    ShortName: OSE,
+    CountryCode: NO,
+    City: Oslo,
+    SourceSymbol: XOSL
+  },
+  {
+    Name: Bolsa de Valores de Lima,
+    Mic: XLIM,
+    ShortName: BVL,
+    CountryCode: PE,
+    City: Lima,
+    SourceSymbol: XLIM
+  },
+  {
+    Name: Warsaw Stock Exchange,
+    Mic: XWAR,
+    ShortName: GPW,
+    CountryCode: PL,
+    City: Warsaw,
+    SourceSymbol: XWAR
+  },
+  {
+    Name: Euronext Lisbon,
+    Mic: XLIS,
+    ShortName: Euronext,
+    CountryCode: PT,
+    City: Lisboa,
+    SourceSymbol: XLIS
+  },
+  {
+    Name: Qatar Stock Exchange,
+    Mic: DSMD,
+    ShortName: QE,
+    CountryCode: QA,
+    City: Doha,
+    SourceSymbol: DSMD
+  },
+  {
+    Name: Moscow Stock Exchange,
+    Mic: MISX,
+    ShortName: MOEX,
+    CountryCode: RU,
+    City: Moscow,
+    SourceSymbol: MISX
+  },
+  {
+    Name: Saudi Stock Exchange,
+    Mic: XSAU,
+    ShortName: TADAWUL,
+    CountryCode: SA,
+    City: Riyadh,
+    SourceSymbol: XSAU
+  },
+  {
+    Name: Belgrade Stock Exchange,
+    Mic: XBEL,
+    ShortName: BELEX,
+    CountryCode: RS,
+    City: Belgrade,
+    SourceSymbol: XBEL
+  },
+  {
+    Name: Singapore Stock Exchange,
+    Mic: XSES,
+    ShortName: SGX,
+    CountryCode: SG,
+    City: Singapore,
+    SourceSymbol: XSES
+  },
+  {
+    Name: Johannesburg Stock Exchange,
+    Mic: XJSE,
+    ShortName: JSE,
+    CountryCode: ZA,
+    City: Johannesburg,
+    SourceSymbol: XJSE
+  },
+  {
+    Name: Korean Stock Exchange,
+    Mic: XKRX,
+    ShortName: KRX,
+    CountryCode: KR,
+    City: Seoul,
+    SourceSymbol: XKRX
+  },
+  {
+    Name: Bolsas y Mercados Españoles,
+    Mic: BMEX,
+    ShortName: BME,
+    CountryCode: ES,
+    City: Madrid,
+    SourceSymbol: BMEX
+  },
+  {
+    Name: Stockholm Stock Exchange,
+    Mic: XSTO,
+    ShortName: OMX,
+    CountryCode: SE,
+    City: Stockholm,
+    SourceSymbol: XSTO
+  },
+  {
+    Name: SIX Swiss Exchange,
+    Mic: XSWX,
+    ShortName: SIX,
+    CountryCode: CH,
+    City: Zurich,
+    SourceSymbol: XSWX
+  },
+  {
+    Name: Taiwan Stock Exchange,
+    Mic: XTAI,
+    ShortName: TWSE,
+    CountryCode: TW,
+    City: Taipei,
+    SourceSymbol: XTAI
+  },
+  {
+    Name: Stock Exchange of Thailand,
+    Mic: XBKK,
+    ShortName: SET,
+    CountryCode: TH,
+    City: Bangkok,
+    SourceSymbol: XBKK
+  },
+  {
+    Name: Istanbul Stock Exchange,
+    Mic: XIST,
+    ShortName: BIST,
+    CountryCode: TR,
+    City: Istanbul,
+    SourceSymbol: XIST
+  },
+  {
+    Name: Dubai Financial Market,
+    Mic: XDFM,
+    ShortName: DFM,
+    CountryCode: AE,
+    City: Dubai,
+    SourceSymbol: XDFM
+  },
+  {
+    Name: London Stock Exchange,
+    Mic: XLON,
+    ShortName: LSE,
+    CountryCode: GB,
+    City: London,
+    SourceSymbol: XLON
+  },
+  {
+    Name: Ho Chi Minh Stock Exchange,
+    Mic: XSTC,
+    ShortName: HOSE,
+    CountryCode: VN,
+    City: Ho Chi Minh City,
+    SourceSymbol: XSTC
+  },
+  {
+    Name: American Stock Exchange,
+    Mic: XASE,
+    ShortName: AMEX,
+    CountryCode: US,
+    City: New York,
+    SourceSymbol: XASE
+  },
+  {
+    Name: Cboe BZX U.S. Equities Exchang,
+    Mic: XCBO,
+    ShortName: BATS,
+    CountryCode: US,
+    City: Chicago,
+    SourceSymbol: XCBO
+  },
+  {
+    Name: US Mutual Funds,
+    Mic: NMFQS,
+    ShortName: NMFQS,
+    CountryCode: US,
+    City: New York,
+    SourceSymbol: NMFQS
+  },
+  {
+    Name: OTC Bulletin Board,
+    Mic: OOTC,
+    ShortName: OTCBB,
+    CountryCode: US,
+    City: Washington,
+    SourceSymbol: OOTC
+  },
+  {
+    Name: OTC Grey Market,
+    Mic: PSGM,
+    ShortName: OTCGREY,
+    CountryCode: US,
+    City: New York,
+    SourceSymbol: PSGM
+  },
+  {
+    Name: OTCQB Marketplace,
+    Mic: OTCB,
+    ShortName: OTCQB,
+    CountryCode: US,
+    City: New York,
+    SourceSymbol: OTCB
+  },
+  {
+    Name: OTCQX Marketplace,
+    Mic: OTCQ,
+    ShortName: OTCQX,
+    CountryCode: US,
+    City: New York,
+    SourceSymbol: OTCQ
+  },
+  {
+    Name: OTC PINK current,
+    Mic: PINC,
+    ShortName: PINK,
+    CountryCode: US,
+    City: New York,
+    SourceSymbol: PINC
+  },
+  {
+    Name: Investors Exchange,
+    Mic: IEXG,
+    ShortName: IEX,
+    CountryCode: US,
+    City: New York,
+    SourceSymbol: IEXG
+  },
+  {
+    Name: INDEX,
+    Mic: INDX,
+    CountryCode: INDX,
+    SourceSymbol: INDX
+  }
+]

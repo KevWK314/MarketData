@@ -1,0 +1,2327 @@
+﻿[
+  {
+    Name: NOVO NORDISK B A/S,
+    Ticker: NOVO_B.XCSE,
+    SourceSymbol: NOVO_B.XCSE
+  },
+  {
+    Name: ORSTED A/S,
+    Ticker: ORSTED.XCSE,
+    SourceSymbol: ORSTED.XCSE
+  },
+  {
+    Name: NORDEA BANK ABP,
+    Ticker: NDA_DK.XCSE,
+    SourceSymbol: NDA_DK.XCSE
+  },
+  {
+    Name: COLOPLAST B A/S,
+    Ticker: COLO_B.XCSE,
+    SourceSymbol: COLO_B.XCSE
+  },
+  {
+    Name: DSV PANALPINA A/S,
+    Ticker: DSV.XCSE,
+    SourceSymbol: DSV.XCSE
+  },
+  {
+    Name: A.P. MOLLER - MAERSK B A/S,
+    Ticker: MAERSK_B.XCSE,
+    SourceSymbol: MAERSK_B.XCSE
+  },
+  {
+    Name: CARLSBERG A A/S,
+    Ticker: CARL_A.XCSE,
+    SourceSymbol: CARL_A.XCSE
+  },
+  {
+    Name: CARLSBERG B A/S,
+    Ticker: CARL_B.XCSE,
+    SourceSymbol: CARL_B.XCSE
+  },
+  {
+    Name: A.P. MOLLER - MAERSK A A/S,
+    Ticker: MAERSK_A.XCSE,
+    SourceSymbol: MAERSK_A.XCSE
+  },
+  {
+    Name: VESTAS WIND SYSTEMS A/S,
+    Ticker: VWS.XCSE,
+    SourceSymbol: VWS.XCSE
+  },
+  {
+    Name: GENMAB A/S,
+    Ticker: GMAB.XCSE,
+    SourceSymbol: GMAB.XCSE
+  },
+  {
+    Name: NOVOZYMES B A/S,
+    Ticker: NZYM_B.XCSE,
+    SourceSymbol: NZYM_B.XCSE
+  },
+  {
+    Name: DANSKE BANK A/S,
+    Ticker: DANSKE.XCSE,
+    SourceSymbol: DANSKE.XCSE
+  },
+  {
+    Name: CHR. HANSEN HOLDING A/S,
+    Ticker: CHR.XCSE,
+    SourceSymbol: CHR.XCSE
+  },
+  {
+    Name: TRYG A/S,
+    Ticker: TRYG.XCSE,
+    SourceSymbol: TRYG.XCSE
+  },
+  {
+    Name: DEMANT A/S,
+    Ticker: DEMANT.XCSE,
+    SourceSymbol: DEMANT.XCSE
+  },
+  {
+    Name: GN STORE NORD A/S,
+    Ticker: GN.XCSE,
+    SourceSymbol: GN.XCSE
+  },
+  {
+    Name: H. LUNDBECK A/S,
+    Ticker: LUN.XCSE,
+    SourceSymbol: LUN.XCSE
+  },
+  {
+    Name: KOBENHAVNS LUFTHAVNE A/S,
+    Ticker: KBHL.XCSE,
+    SourceSymbol: KBHL.XCSE
+  },
+  {
+    Name: AMBU A/S,
+    Ticker: AMBU_B.XCSE,
+    SourceSymbol: AMBU_B.XCSE
+  },
+  {
+    Name: ROCKWOOL INTERNATIONAL B A/S,
+    Ticker: ROCK_B.XCSE,
+    SourceSymbol: ROCK_B.XCSE
+  },
+  {
+    Name: ROCKWOOL INTERNATIONAL A A/S,
+    Ticker: ROCK_A.XCSE,
+    SourceSymbol: ROCK_A.XCSE
+  },
+  {
+    Name: ROYAL UNIBREW A/S,
+    Ticker: RBREW.XCSE,
+    SourceSymbol: RBREW.XCSE
+  },
+  {
+    Name: PANDORA A/S,
+    Ticker: PNDORA.XCSE,
+    SourceSymbol: PNDORA.XCSE
+  },
+  {
+    Name: SIMCORP A/S,
+    Ticker: SIM.XCSE,
+    SourceSymbol: SIM.XCSE
+  },
+  {
+    Name: TOPDANMARK A/S,
+    Ticker: TOP.XCSE,
+    SourceSymbol: TOP.XCSE
+  },
+  {
+    Name: G4S PLC,
+    Ticker: G4S.XCSE,
+    SourceSymbol: G4S.XCSE
+  },
+  {
+    Name: ISS A/S,
+    Ticker: ISS.XCSE,
+    SourceSymbol: ISS.XCSE
+  },
+  {
+    Name: ALK-ABELLO B A/S,
+    Ticker: ALK_B.XCSE,
+    SourceSymbol: ALK_B.XCSE
+  },
+  {
+    Name: OSSUR HF.,
+    Ticker: OSSR.XCSE,
+    SourceSymbol: OSSR.XCSE
+  },
+  {
+    Name: JYSKE BANK A/S,
+    Ticker: JYSK.XCSE,
+    SourceSymbol: JYSK.XCSE
+  },
+  {
+    Name: NETCOMPANY GROUP A/S,
+    Ticker: NETC.XCSE,
+    SourceSymbol: NETC.XCSE
+  },
+  {
+    Name: JEUDAN A/S,
+    Ticker: JDAN.XCSE,
+    SourceSymbol: JDAN.XCSE
+  },
+  {
+    Name: DFDS A/S,
+    Ticker: DFDS.XCSE,
+    SourceSymbol: DFDS.XCSE
+  },
+  {
+    Name: RINGKJOBING LANDBOBANK A/S,
+    Ticker: RILBA.XCSE,
+    SourceSymbol: RILBA.XCSE
+  },
+  {
+    Name: THE DRILLING COMPANY OF 1972 A/S,
+    Ticker: DRLCO.XCSE,
+    SourceSymbol: DRLCO.XCSE
+  },
+  {
+    Name: SCHOUW & CO. A/S,
+    Ticker: SCHO.XCSE,
+    SourceSymbol: SCHO.XCSE
+  },
+  {
+    Name: FLSMIDTH & CO. A/S,
+    Ticker: FLS.XCSE,
+    SourceSymbol: FLS.XCSE
+  },
+  {
+    Name: ZEALAND PHARMA A/S,
+    Ticker: ZEAL.XCSE,
+    SourceSymbol: ZEAL.XCSE
+  },
+  {
+    Name: ALM. BRAND A/S,
+    Ticker: ALMB.XCSE,
+    SourceSymbol: ALMB.XCSE
+  },
+  {
+    Name: SCANDINAVIAN TOBACCO GROUP A/S,
+    Ticker: STG.XCSE,
+    SourceSymbol: STG.XCSE
+  },
+  {
+    Name: SYDBANK A/S,
+    Ticker: SYDB.XCSE,
+    SourceSymbol: SYDB.XCSE
+  },
+  {
+    Name: BAVARIAN NORDIC A/S,
+    Ticker: BAVA.XCSE,
+    SourceSymbol: BAVA.XCSE
+  },
+  {
+    Name: SPAR NORD BANK A/S,
+    Ticker: SPNO.XCSE,
+    SourceSymbol: SPNO.XCSE
+  },
+  {
+    Name: NKT A/S,
+    Ticker: NKT.XCSE,
+    SourceSymbol: NKT.XCSE
+  },
+  {
+    Name: UNITED INTERNATIONAL ENTERPRISES LTD,
+    Ticker: UIE.XCSE,
+    SourceSymbol: UIE.XCSE
+  },
+  {
+    Name: CHEMOMETEC A/S,
+    Ticker: CHEMM.XCSE,
+    SourceSymbol: CHEMM.XCSE
+  },
+  {
+    Name: PER AARSLEFF HOLDING A/S B,
+    Ticker: PAAL_B.XCSE,
+    SourceSymbol: PAAL_B.XCSE
+  },
+  {
+    Name: TIVOLI A/S,
+    Ticker: TIV.XCSE,
+    SourceSymbol: TIV.XCSE
+  },
+  {
+    Name: TORM PLC A,
+    Ticker: TRMD_A.XCSE,
+    SourceSymbol: TRMD_A.XCSE
+  },
+  {
+    Name: NILFISK HOLDING A/S,
+    Ticker: NLFSK.XCSE,
+    SourceSymbol: NLFSK.XCSE
+  },
+  {
+    Name: D/S NORDEN,
+    Ticker: DNORD.XCSE,
+    SourceSymbol: DNORD.XCSE
+  },
+  {
+    Name: VESTJYSK BANK A/S,
+    Ticker: VJBA.XCSE,
+    SourceSymbol: VJBA.XCSE
+  },
+  {
+    Name: SAS AB,
+    Ticker: SAS_DKK.XCSE,
+    SourceSymbol: SAS_DKK.XCSE
+  },
+  {
+    Name: NNIT A/S,
+    Ticker: NNIT.XCSE,
+    SourceSymbol: NNIT.XCSE
+  },
+  {
+    Name: NTG NORDIC TRANSPORT GROUP A/S,
+    Ticker: NTG.XCSE,
+    SourceSymbol: NTG.XCSE
+  },
+  {
+    Name: ORPHAZYME A/S,
+    Ticker: ORPHA.XCSE,
+    SourceSymbol: ORPHA.XCSE
+  },
+  {
+    Name: BRDR.HARTMANN A/S,
+    Ticker: HART.XCSE,
+    SourceSymbol: HART.XCSE
+  },
+  {
+    Name: SP GROUP A/S,
+    Ticker: SPG.XCSE,
+    SourceSymbol: SPG.XCSE
+  },
+  {
+    Name: H+H INTERNATIONAL A/S,
+    Ticker: HH.XCSE,
+    SourceSymbol: HH.XCSE
+  },
+  {
+    Name: MATAS A/S,
+    Ticker: MATAS.XCSE,
+    SourceSymbol: MATAS.XCSE
+  },
+  {
+    Name: SOLAR B A/S,
+    Ticker: SOLAR_B.XCSE,
+    SourceSymbol: SOLAR_B.XCSE
+  },
+  {
+    Name: RTX A/S,
+    Ticker: RTX.XCSE,
+    SourceSymbol: RTX.XCSE
+  },
+  {
+    Name: JUTLANDER BANK A/S,
+    Ticker: JUTBK.XCSE,
+    SourceSymbol: JUTBK.XCSE
+  },
+  {
+    Name: GYLDENDAL A A/S,
+    Ticker: GYLD_A.XCSE,
+    SourceSymbol: GYLD_A.XCSE
+  },
+  {
+    Name: SPAREKASSEN SJAELLAND-FYN A/S,
+    Ticker: SPKSJF.XCSE,
+    SourceSymbol: SPKSJF.XCSE
+  },
+  {
+    Name: LAN OG SPAR BANK A/S,
+    Ticker: LASP.XCSE,
+    SourceSymbol: LASP.XCSE
+  },
+  {
+    Name: CBRAIN A/S,
+    Ticker: CBRAIN.XCSE,
+    SourceSymbol: CBRAIN.XCSE
+  },
+  {
+    Name: GABRIEL HOLDING A/S,
+    Ticker: GABR.XCSE,
+    SourceSymbol: GABR.XCSE
+  },
+  {
+    Name: BANG & OLUFSEN HOLDING A/S,
+    Ticker: BO.XCSE,
+    SourceSymbol: BO.XCSE
+  },
+  {
+    Name: DANSKE ANDELSKASSERS BANK A/S,
+    Ticker: DAB.XCSE,
+    SourceSymbol: DAB.XCSE
+  },
+  {
+    Name: TCM GROUP A/S,
+    Ticker: TCM.XCSE,
+    SourceSymbol: TCM.XCSE
+  },
+  {
+    Name: BANKNORDIK P/F,
+    Ticker: BNORDIK_CS.XCSE,
+    SourceSymbol: BNORDIK_CS.XCSE
+  },
+  {
+    Name: JOBINDEX A/S,
+    Ticker: JOBNDX.XCSE,
+    SourceSymbol: JOBNDX.XCSE
+  },
+  {
+    Name: COLUMBUS A/S,
+    Ticker: COLUM.XCSE,
+    SourceSymbol: COLUM.XCSE
+  },
+  {
+    Name: NORTH MEDIA A/S,
+    Ticker: NORTHM.XCSE,
+    SourceSymbol: NORTHM.XCSE
+  },
+  {
+    Name: GRONLANDSBANKEN A/S,
+    Ticker: GRLA.XCSE,
+    SourceSymbol: GRLA.XCSE
+  },
+  {
+    Name: PARKEN SPORT & ENTERTAINMENT A/S,
+    Ticker: PARKEN.XCSE,
+    SourceSymbol: PARKEN.XCSE
+  },
+  {
+    Name: MT HOJGAARD HOLDING A/S,
+    Ticker: MTHH.XCSE,
+    SourceSymbol: MTHH.XCSE
+  },
+  {
+    Name: FLUGGER GROUP A/S B,
+    Ticker: FLUG_B.XCSE,
+    SourceSymbol: FLUG_B.XCSE
+  },
+  {
+    Name: DEN JYSKE SPAREKASSE A/S,
+    Ticker: DJS.XCSE,
+    SourceSymbol: DJS.XCSE
+  },
+  {
+    Name: PRIME OFFICE A/S,
+    Ticker: PRIMOF.XCSE,
+    SourceSymbol: PRIMOF.XCSE
+  },
+  {
+    Name: SANISTAL A/S,
+    Ticker: SANI.XCSE,
+    SourceSymbol: SANI.XCSE
+  },
+  {
+    Name: KONSOLIDATOR A/S,
+    Ticker: KONSOL.XCSE,
+    SourceSymbol: KONSOL.XCSE
+  },
+  {
+    Name: DJURSLANDS BANK A/S,
+    Ticker: DJUR.XCSE,
+    SourceSymbol: DJUR.XCSE
+  },
+  {
+    Name: PARK STREET NORDICOM A/S A,
+    Ticker: PSNRDC_A.XCSE,
+    SourceSymbol: PSNRDC_A.XCSE
+  },
+  {
+    Name: SKJERN BANK A/S,
+    Ticker: SKJE.XCSE,
+    SourceSymbol: SKJE.XCSE
+  },
+  {
+    Name: FYNSKE BANK A/S,
+    Ticker: FYNBK.XCSE,
+    SourceSymbol: FYNBK.XCSE
+  },
+  {
+    Name: EGNSINVEST EJD., TYSKLAND A/S,
+    Ticker: EGNETY.XCSE,
+    SourceSymbol: EGNETY.XCSE
+  },
+  {
+    Name: KREDITBANKEN A/S,
+    Ticker: KRE.XCSE,
+    SourceSymbol: KRE.XCSE
+  },
+  {
+    Name: WATURU HOLDING A/S,
+    Ticker: WATURU.XCSE,
+    SourceSymbol: WATURU.XCSE
+  },
+  {
+    Name: BIOPORTO A/S,
+    Ticker: BIOPOR.XCSE,
+    SourceSymbol: BIOPOR.XCSE
+  },
+  {
+    Name: GYLDENDAL B A/S,
+    Ticker: GYLD_B.XCSE,
+    SourceSymbol: GYLD_B.XCSE
+  },
+  {
+    Name: GERMAN HIGH STREET PROPERTIES A/S,
+    Ticker: GERHSP.XCSE,
+    SourceSymbol: GERHSP.XCSE
+  },
+  {
+    Name: ATHENA INVESTMENTS A/S,
+    Ticker: ATHENA.XCSE,
+    SourceSymbol: ATHENA.XCSE
+  },
+  {
+    Name: LUXOR B A/S,
+    Ticker: LUXOR_B.XCSE,
+    SourceSymbol: LUXOR_B.XCSE
+  },
+  {
+    Name: LOLLANDS BANK A/S,
+    Ticker: LOLB.XCSE,
+    SourceSymbol: LOLB.XCSE
+  },
+  {
+    Name: FIRSTFARMS A/S,
+    Ticker: FFARMS.XCSE,
+    SourceSymbol: FFARMS.XCSE
+  },
+  {
+    Name: ROBLON B A/S,
+    Ticker: RBLN_B.XCSE,
+    SourceSymbol: RBLN_B.XCSE
+  },
+  {
+    Name: AGAT EJENDOMME A/S,
+    Ticker: AGAT.XCSE,
+    SourceSymbol: AGAT.XCSE
+  },
+  {
+    Name: STRATEGIC INVESTMENTS A/S,
+    Ticker: STRINV.XCSE,
+    SourceSymbol: STRINV.XCSE
+  },
+  {
+    Name: FAST EJENDOM DANMARK A/S,
+    Ticker: FED.XCSE,
+    SourceSymbol: FED.XCSE
+  },
+  {
+    Name: BOSTAD A/S B,
+    Ticker: BOSTAD_B.XCSE,
+    SourceSymbol: BOSTAD_B.XCSE
+  },
+  {
+    Name: BRONDBYERNES IF FODBOLD A/S,
+    Ticker: BIF.XCSE,
+    SourceSymbol: BIF.XCSE
+  },
+  {
+    Name: TOTALBANKEN A/S,
+    Ticker: TOTA.XCSE,
+    SourceSymbol: TOTA.XCSE
+  },
+  {
+    Name: HARBOES BRYGGERI B A/S,
+    Ticker: HARB_B.XCSE,
+    SourceSymbol: HARB_B.XCSE
+  },
+  {
+    Name: SALLING BANK A/S,
+    Ticker: SALB.XCSE,
+    SourceSymbol: SALB.XCSE
+  },
+  {
+    Name: MONS BANK A/S,
+    Ticker: MNBA.XCSE,
+    SourceSymbol: MNBA.XCSE
+  },
+  {
+    Name: ONXEO SA,
+    Ticker: ONXEO.XCSE,
+    SourceSymbol: ONXEO.XCSE
+  },
+  {
+    Name: AGF A/S B,
+    Ticker: AGF_B.XCSE,
+    SourceSymbol: AGF_B.XCSE
+  },
+  {
+    Name: NORDFYNS BANK A/S,
+    Ticker: NRDF.XCSE,
+    SourceSymbol: NRDF.XCSE
+  },
+  {
+    Name: AGILLIC A/S,
+    Ticker: AGILC.XCSE,
+    SourceSymbol: AGILC.XCSE
+  },
+  {
+    Name: SCAPE TECHNOLOGIES A/S,
+    Ticker: SCAPE.XCSE,
+    SourceSymbol: SCAPE.XCSE
+  },
+  {
+    Name: GREENMOBILITY A/S,
+    Ticker: GREENM.XCSE,
+    SourceSymbol: GREENM.XCSE
+  },
+  {
+    Name: NORDIC SHIPHOLDING A/S,
+    Ticker: NORDIC.XCSE,
+    SourceSymbol: NORDIC.XCSE
+  },
+  {
+    Name: ODICO A/S,
+    Ticker: ODICO.XCSE,
+    SourceSymbol: ODICO.XCSE
+  },
+  {
+    Name: COPENHAGEN CAPITAL A/S STAM,
+    Ticker: CPHCAP_ST.XCSE,
+    SourceSymbol: CPHCAP_ST.XCSE
+  },
+  {
+    Name: VIROGATES A/S,
+    Ticker: VIRO.XCSE,
+    SourceSymbol: VIRO.XCSE
+  },
+  {
+    Name: F.E. BORDING B A/S,
+    Ticker: BORD_B.XCSE,
+    SourceSymbol: BORD_B.XCSE
+  },
+  {
+    Name: BRD. KLEE B A/S,
+    Ticker: KLEE_B.XCSE,
+    SourceSymbol: KLEE_B.XCSE
+  },
+  {
+    Name: SILKEBORG IF INVEST A/S,
+    Ticker: SIF.XCSE,
+    SourceSymbol: SIF.XCSE
+  },
+  {
+    Name: SKAKO A/S,
+    Ticker: SKAKO.XCSE,
+    SourceSymbol: SKAKO.XCSE
+  },
+  {
+    Name: SELUXIT A/S,
+    Ticker: SLXIT.XCSE,
+    SourceSymbol: SLXIT.XCSE
+  },
+  {
+    Name: MIGATRONIC B A/S,
+    Ticker: MIGA_B.XCSE,
+    SourceSymbol: MIGA_B.XCSE
+  },
+  {
+    Name: RIAS B A/S,
+    Ticker: RIAS_B.XCSE,
+    SourceSymbol: RIAS_B.XCSE
+  },
+  {
+    Name: HVIDBJERG BANK A/S,
+    Ticker: HVID.XCSE,
+    SourceSymbol: HVID.XCSE
+  },
+  {
+    Name: GLUNZ & JENSEN HOLDING A/S,
+    Ticker: GJ.XCSE,
+    SourceSymbol: GJ.XCSE
+  },
+  {
+    Name: NTR HOLDING B A/S,
+    Ticker: NTR_B.XCSE,
+    SourceSymbol: NTR_B.XCSE
+  },
+  {
+    Name: NEWCAP HOLDING A/S,
+    Ticker: NEWCAP.XCSE,
+    SourceSymbol: NEWCAP.XCSE
+  },
+  {
+    Name: ANDERSEN & MARTINI HOLDING B A/S,
+    Ticker: AM_B.XCSE,
+    SourceSymbol: AM_B.XCSE
+  },
+  {
+    Name: CEMAT A/S,
+    Ticker: CEMAT.XCSE,
+    SourceSymbol: CEMAT.XCSE
+  },
+  {
+    Name: SCANDINAVIAN INVESTMENT GROUP A/S,
+    Ticker: SIG.XCSE,
+    SourceSymbol: SIG.XCSE
+  },
+  {
+    Name: ESOFT SYSTEMS A/S,
+    Ticker: ESOFT.XCSE,
+    SourceSymbol: ESOFT.XCSE
+  },
+  {
+    Name: BOLIGA GRUPPEN A/S,
+    Ticker: BOLIGA.XCSE,
+    SourceSymbol: BOLIGA.XCSE
+  },
+  {
+    Name: DANTAX A/S,
+    Ticker: DANT.XCSE,
+    SourceSymbol: DANT.XCSE
+  },
+  {
+    Name: SCANDINAVIAN BRAKE SYSTEMS A/S,
+    Ticker: SBS.XCSE,
+    SourceSymbol: SBS.XCSE
+  },
+  {
+    Name: DANISH AEROSPACE COMPANY A/S,
+    Ticker: DAC.XCSE,
+    SourceSymbol: DAC.XCSE
+  },
+  {
+    Name: WIRTEK A/S,
+    Ticker: WIRTEK.XCSE,
+    SourceSymbol: WIRTEK.XCSE
+  },
+  {
+    Name: HYPEFACTORS A/S,
+    Ticker: HYPE.XCSE,
+    SourceSymbol: HYPE.XCSE
+  },
+  {
+    Name: BLUE VISION A/S A,
+    Ticker: BLVIS_A.XCSE,
+    SourceSymbol: BLVIS_A.XCSE
+  },
+  {
+    Name: SMALL CAP DANMARK A/S,
+    Ticker: SCD.XCSE,
+    SourceSymbol: SCD.XCSE
+  },
+  {
+    Name: INTERMAIL A/S,
+    Ticker: IMAIL.XCSE,
+    SourceSymbol: IMAIL.XCSE
+  },
+  {
+    Name: HAPPY HELPER A/S,
+    Ticker: HAPPY.XCSE,
+    SourceSymbol: HAPPY.XCSE
+  },
+  {
+    Name: FASTPASSCORP A/S,
+    Ticker: FASTPC.XCSE,
+    SourceSymbol: FASTPC.XCSE
+  },
+  {
+    Name: VICTORIA PROPERTIES A/S,
+    Ticker: VIPRO.XCSE,
+    SourceSymbol: VIPRO.XCSE
+  },
+  {
+    Name: AALBORG BOLDSPILKLUB A/S,
+    Ticker: AAB.XCSE,
+    SourceSymbol: AAB.XCSE
+  },
+  {
+    Name: EAC INVEST A/S,
+    Ticker: EAC.XCSE,
+    SourceSymbol: EAC.XCSE
+  },
+  {
+    Name: ATLANTIC PETROLEUM P/F,
+    Ticker: ATLA_DKK.XCSE,
+    SourceSymbol: ATLA_DKK.XCSE
+  },
+  {
+    Name: CONFERIZE A/S,
+    Ticker: CONFRZ.XCSE,
+    SourceSymbol: CONFRZ.XCSE
+  },
+  {
+    Name: ERRIA A/S,
+    Ticker: ERRIA.XCSE,
+    SourceSymbol: ERRIA.XCSE
+  },
+  {
+    Name: ENALYZER A/S,
+    Ticker: ENALYZ.XCSE,
+    SourceSymbol: ENALYZ.XCSE
+  },
+  {
+    Name: NPINVESTOR.COM A/S,
+    Ticker: NPINV.XCSE,
+    SourceSymbol: NPINV.XCSE
+  },
+  {
+    Name: COPENHAGEN CAPITAL A/S PRAEF,
+    Ticker: CPHCAP_PRE.XCSE,
+    SourceSymbol: CPHCAP_PRE.XCSE
+  },
+  {
+    Name: DecideAct A/S,
+    Ticker: ACT.XCSE,
+    SourceSymbol: ACT.XCSE
+  },
+  {
+    Name: AGF A/S,
+    Ticker: AGF-B.XCSE,
+    SourceSymbol: AGF-B.XCSE
+  },
+  {
+    Name: Alefarm Brewing A/S,
+    Ticker: ALEFRM.XCSE,
+    SourceSymbol: ALEFRM.XCSE
+  },
+  {
+    Name: Alm. Brand Invest Europ&#195;&#166;iske Aktier ETI,
+    Ticker: ALIEUA.XCSE,
+    SourceSymbol: ALIEUA.XCSE
+  },
+  {
+    Name: Alm. Brand Invest Globale Aktier ETIK,
+    Ticker: ALIGLO.XCSE,
+    SourceSymbol: ALIGLO.XCSE
+  },
+  {
+    Name: Alm. Brand Invest Lange Obligationer ETIK,
+    Ticker: ALILO.XCSE,
+    SourceSymbol: ALILO.XCSE
+  },
+  {
+    Name: Alm. Brand Invest Mix Defensiv ETIK,
+    Ticker: ALIMD.XCSE,
+    SourceSymbol: ALIMD.XCSE
+  },
+  {
+    Name: Alm. Brand Invest Mix ETIK,
+    Ticker: ALIMIX.XCSE,
+    SourceSymbol: ALIMIX.XCSE
+  },
+  {
+    Name: Alm. Brand Invest Mix Offensiv ETIK,
+    Ticker: ALIMOF.XCSE,
+    SourceSymbol: ALIMOF.XCSE
+  },
+  {
+    Name: ALK-Abelló A/S,
+    Ticker: ALK-B.XCSE,
+    SourceSymbol: ALK-B.XCSE
+  },
+  {
+    Name: Ambu A/S,
+    Ticker: AMBU-B.XCSE,
+    SourceSymbol: AMBU-B.XCSE
+  },
+  {
+    Name: Brødrene A & O Johansen A/S,
+    Ticker: AOJ-P.XCSE,
+    SourceSymbol: AOJ-P.XCSE
+  },
+  {
+    Name: Astralis Group A/S,
+    Ticker: ASTGRP.XCSE,
+    SourceSymbol: ASTGRP.XCSE
+  },
+  {
+    Name: P/F Atlantic Petroleum,
+    Ticker: ATLA-DKK.XCSE,
+    SourceSymbol: ATLA-DKK.XCSE
+  },
+  {
+    Name: Audientes A/S,
+    Ticker: AUDNTS.XCSE,
+    SourceSymbol: AUDNTS.XCSE
+  },
+  {
+    Name: BankInvest - Danske Aktier KL,
+    Ticker: BAIDKAA.XCSE,
+    SourceSymbol: BAIDKAA.XCSE
+  },
+  {
+    Name: Bankinvest - Danske Aktier Akk. KL,
+    Ticker: BAIDKAAKA.XCSE,
+    SourceSymbol: BAIDKAAKA.XCSE
+  },
+  {
+    Name: BankInvest Emerging Markets Aktier,
+    Ticker: BAIEMAA.XCSE,
+    SourceSymbol: BAIEMAA.XCSE
+  },
+  {
+    Name: BankInvest - Emerging Markets Obligationer Akk,
+    Ticker: BAIEMOAKA.XCSE,
+    SourceSymbol: BAIEMOAKA.XCSE
+  },
+  {
+    Name: BankInvest - Emerging Markets Obligationer,
+    Ticker: BAIEMOBA.XCSE,
+    SourceSymbol: BAIEMOBA.XCSE
+  },
+  {
+    Name: BankInvest - Emerging Markets Obligationer Lokalva,
+    Ticker: BAIEMOLVA.XCSE,
+    SourceSymbol: BAIEMOLVA.XCSE
+  },
+  {
+    Name: Bankinvest - Europa Small Cap Aktier KL,
+    Ticker: BAIESCA.XCSE,
+    SourceSymbol: BAIESCA.XCSE
+  },
+  {
+    Name: BankInvest - Højt Udbytte Aktier KL,
+    Ticker: BAIHUAA.XCSE,
+    SourceSymbol: BAIHUAA.XCSE
+  },
+  {
+    Name: BankInvest Korte Danske Obligationer,
+    Ticker: BAIKDOBA.XCSE,
+    SourceSymbol: BAIKDOBA.XCSE
+  },
+  {
+    Name: BankInvest Lange Danske Obligationer,
+    Ticker: BAILDOBA.XCSE,
+    SourceSymbol: BAILDOBA.XCSE
+  },
+  {
+    Name: Bankinvest - USA Small Cap KL,
+    Ticker: BAIUSCA.XCSE,
+    SourceSymbol: BAIUSCA.XCSE
+  },
+  {
+    Name: Bankinvest - Virksomhedsobligationer HY KL,
+    Ticker: BAIVOHYA.XCSE,
+    SourceSymbol: BAIVOHYA.XCSE
+  },
+  {
+    Name: BankInvest - Virksomhedsobligationer IG KL,
+    Ticker: BAIVOIGA.XCSE,
+    SourceSymbol: BAIVOIGA.XCSE
+  },
+  {
+    Name: BLS Invest Globale Aktier Akk,
+    Ticker: BLIGAA.XCSE,
+    SourceSymbol: BLIGAA.XCSE
+  },
+  {
+    Name: Kapitalforeningen Blue Strait Capital - Blue Strai,
+    Ticker: BLKBSCKL.XCSE,
+    SourceSymbol: BLKBSCKL.XCSE
+  },
+  {
+    Name: BLS Invest Danske Aktier KL,
+    Ticker: BLKDA.XCSE,
+    SourceSymbol: BLKDA.XCSE
+  },
+  {
+    Name: BLS Invest Globale Aktier KL,
+    Ticker: BLKGA.XCSE,
+    SourceSymbol: BLKGA.XCSE
+  },
+  {
+    Name: Blue Vision A/S,
+    Ticker: BLVIS-A.XCSE,
+    SourceSymbol: BLVIS-A.XCSE
+  },
+  {
+    Name: P/F BankNordik,
+    Ticker: BNORDIK-CSE.XCS,
+    SourceSymbol: BNORDIK-CSE.XCS
+  },
+  {
+    Name: Carlsberg A/S,
+    Ticker: CARL-A.XCSE,
+    SourceSymbol: CARL-A.XCSE
+  },
+  {
+    Name: Carlsberg A/S,
+    Ticker: CARL-B.XCSE,
+    SourceSymbol: CARL-B.XCSE
+  },
+  {
+    Name: Cleantech Building Materials Plc,
+    Ticker: CBM.XCSE,
+    SourceSymbol: CBM.XCSE
+  },
+  {
+    Name: Coloplast A/S,
+    Ticker: COLO-B.XCSE,
+    SourceSymbol: COLO-B.XCSE
+  },
+  {
+    Name: Copenhagen Capital A/S,
+    Ticker: CPHCAP-ST.XCSE,
+    SourceSymbol: CPHCAP-ST.XCSE
+  },
+  {
+    Name: C WorldWide Asien KL,
+    Ticker: CWIASKL.XCSE,
+    SourceSymbol: CWIASKL.XCSE
+  },
+  {
+    Name: C WorldWide Emerging Markets KL,
+    Ticker: CWIEMMKL.XCSE,
+    SourceSymbol: CWIEMMKL.XCSE
+  },
+  {
+    Name: C WorldWide Globale Aktier - Akkumulerende KL,
+    Ticker: CWIGAAKKKL.XCSE,
+    SourceSymbol: CWIGAAKKKL.XCSE
+  },
+  {
+    Name: C WorldWide Globale Aktier Etik KL,
+    Ticker: CWIGAEKL.XCSE,
+    SourceSymbol: CWIGAEKL.XCSE
+  },
+  {
+    Name: C WorldWide Globale Aktier KL,
+    Ticker: CWIGAKL.XCSE,
+    SourceSymbol: CWIGAKL.XCSE
+  },
+  {
+    Name: C WorldWide Stabile Aktier KL,
+    Ticker: CWISAKTKL.XCSE,
+    SourceSymbol: CWISAKTKL.XCSE
+  },
+  {
+    Name: Danske Invest Indeksobligationer KL,
+    Ticker: DKIDIO.XCSE,
+    SourceSymbol: DKIDIO.XCSE
+  },
+  {
+    Name: Danske Invest Danmark KL DKK d,
+    Ticker: DKIDK.XCSE,
+    SourceSymbol: DKIDK.XCSE
+  },
+  {
+    Name: Danske Invest Danmark Akk KL DKK,
+    Ticker: DKIDKA.XCSE,
+    SourceSymbol: DKIDKA.XCSE
+  },
+  {
+    Name: Danske Invest Danmark Fokus KL DKK d,
+    Ticker: DKIDKF.XCSE,
+    SourceSymbol: DKIDKF.XCSE
+  },
+  {
+    Name: Danske Invest Danmark Indeks KL DKk d,
+    Ticker: DKIDKIX.XCSE,
+    SourceSymbol: DKIDKIX.XCSE
+  },
+  {
+    Name: Danske Invest Danske Lange Obligationer KL DKK d,
+    Ticker: DKIDKLOBL.XCSE,
+    SourceSymbol: DKIDKLOBL.XCSE
+  },
+  {
+    Name: Danske Invest Dannebrog Mellemlange Obligationer K,
+    Ticker: DKIDMOBL.XCSE,
+    SourceSymbol: DKIDMOBL.XCSE
+  },
+  {
+    Name: Investeringsforeningen Danske Invest - Europa Højt,
+    Ticker: DKIEAUHU.XCSE,
+    SourceSymbol: DKIEAUHU.XCSE
+  },
+  {
+    Name: Danske Invest Osteuropa,
+    Ticker: DKIEEU.XCSE,
+    SourceSymbol: DKIEEU.XCSE
+  },
+  {
+    Name: Danske Invest Euro Investment Grade Obligationer K,
+    Ticker: DKIEIGO.XCSE,
+    SourceSymbol: DKIEIGO.XCSE
+  },
+  {
+    Name: Danske Invest Select Kommuner 4 KL,
+    Ticker: DKIENGK4.XCSE,
+    SourceSymbol: DKIENGK4.XCSE
+  },
+  {
+    Name: Danske Invest Europa,
+    Ticker: DKIEU.XCSE,
+    SourceSymbol: DKIEU.XCSE
+  },
+  {
+    Name: Danske Invest Europa Akk klasse DKK h,
+    Ticker: DKIEUADKKH.XCSE,
+    SourceSymbol: DKIEUADKKH.XCSE
+  },
+  {
+    Name: Danske Invest Europa H&#195;&#184;jt Udbytte Akk K,
+    Ticker: DKIEUHUAKLDKK.X,
+    SourceSymbol: DKIEUHUAKLDKK.X
+  },
+  {
+    Name: Danske Invest Europa Indeks KL DKK d,
+    Ticker: DKIEUIX.XCSE,
+    SourceSymbol: DKIEUIX.XCSE
+  },
+  {
+    Name: Danske Invest Europa Indeks BNP KL DKK d,
+    Ticker: DKIEUIXBNP.XCSE,
+    SourceSymbol: DKIEUIXBNP.XCSE
+  },
+  {
+    Name: Danske Invest Europa Small Cap KL DKK d,
+    Ticker: DKIEUSC.XCSE,
+    SourceSymbol: DKIEUSC.XCSE
+  },
+  {
+    Name: Danske Invest Europe Small Cap AKK KL DKK,
+    Ticker: DKIEUSCADKK.XCS,
+    SourceSymbol: DKIEUSCADKK.XCS
+  },
+  {
+    Name: Danske Invest Fjern&#195;&#184;sten KL DKK d,
+    Ticker: DKIFJE.XCSE,
+    SourceSymbol: DKIFJE.XCSE
+  },
+  {
+    Name: Danske Invest Fjern&#195;&#184;sten Indeks KL DKK ,
+    Ticker: DKIFJIX.XCSE,
+    SourceSymbol: DKIFJIX.XCSE
+  },
+  {
+    Name: Danske Invest Fonde KL DKK d,
+    Ticker: DKIFO.XCSE,
+    SourceSymbol: DKIFO.XCSE
+  },
+  {
+    Name: Danske Invest Globale High Yield Obligationer KL D,
+    Ticker: DKIGHYB.XCSE,
+    SourceSymbol: DKIGHYB.XCSE
+  },
+  {
+    Name: Danske Invest Global Indeks KL,
+    Ticker: DKIGI.XCSE,
+    SourceSymbol: DKIGI.XCSE
+  },
+  {
+    Name: Danske Invest Global Indeks Akk KL DKK h,
+    Ticker: DKIGIADKKH.XCSE,
+    SourceSymbol: DKIGIADKKH.XCSE
+  },
+  {
+    Name: Danske Invest Globale Lange Indeksobligationer DKK,
+    Ticker: DKIGLIADKKH.XCS,
+    SourceSymbol: DKIGLIADKKH.XCS
+  },
+  {
+    Name: Danske Invest Globale Lange Indeksobligationer KL ,
+    Ticker: DKIGLIO.XCSE,
+    SourceSymbol: DKIGLIO.XCSE
+  },
+  {
+    Name: Danske Invest Globale Virksomhedsobligationer KL D,
+    Ticker: DKIGLOVO.XCSE,
+    SourceSymbol: DKIGLOVO.XCSE
+  },
+  {
+    Name: Danske Invest Globale Mellemlange Indeksobligation,
+    Ticker: DKIGMI.XCSE,
+    SourceSymbol: DKIGMI.XCSE
+  },
+  {
+    Name: Investeringsforeningen Danske Invest - Globale Obl,
+    Ticker: DKIGOM.XCSE,
+    SourceSymbol: DKIGOM.XCSE
+  },
+  {
+    Name: Danske Invest Japan KL DKK d,
+    Ticker: DKIJAP.XCSE,
+    SourceSymbol: DKIJAP.XCSE
+  },
+  {
+    Name: Danske Invest Kina KL DKK d,
+    Ticker: DKIKI.XCSE,
+    SourceSymbol: DKIKI.XCSE
+  },
+  {
+    Name: Danske Invest Danske Korte Obligationer KL DKK d,
+    Ticker: DKIKO.XCSE,
+    SourceSymbol: DKIKO.XCSE
+  },
+  {
+    Name: Danske Invest Mix Akk KL,
+    Ticker: DKIMA.XCSE,
+    SourceSymbol: DKIMA.XCSE
+  },
+  {
+    Name: Danske Invest Mix Defensiv Akk KL,
+    Ticker: DKIMDA.XCSE,
+    SourceSymbol: DKIMDA.XCSE
+  },
+  {
+    Name: Danske Invest Mix Offensiv Akk KL,
+    Ticker: DKIMOAK.XCSE,
+    SourceSymbol: DKIMOAK.XCSE
+  },
+  {
+    Name: Danske Invest Mix Obligationer KL,
+    Ticker: DKIMOB.XCSE,
+    SourceSymbol: DKIMOB.XCSE
+  },
+  {
+    Name: Danske Invest Mix Offensiv Plus Akk KL,
+    Ticker: DKIMOPA.XCSE,
+    SourceSymbol: DKIMOPA.XCSE
+  },
+  {
+    Name: Danske Invest Nye Markeder Akk KL DKK,
+    Ticker: DKINMAKK.XCSE,
+    SourceSymbol: DKINMAKK.XCSE
+  },
+  {
+    Name: Danske Invest Nye Markeder Obligationer KL DKK d h,
+    Ticker: DKINMOBL.XCSE,
+    SourceSymbol: DKINMOBL.XCSE
+  },
+  {
+    Name: Danske Invest Nordiske Virksomhedsobligationer KL ,
+    Ticker: DKINVO.XCSE,
+    SourceSymbol: DKINVO.XCSE
+  },
+  {
+    Name: Danske Invest Nye Markeder KL DKK d,
+    Ticker: DKINYM.XCSE,
+    SourceSymbol: DKINYM.XCSE
+  },
+  {
+    Name: Danske Invest USA KL DKK d,
+    Ticker: DKIUSA.XCSE,
+    SourceSymbol: DKIUSA.XCSE
+  },
+  {
+    Name: Danske Invest USA KL DKK h,
+    Ticker: DKIUSAADKKH.XCS,
+    SourceSymbol: DKIUSAADKKH.XCS
+  },
+  {
+    Name: Flügger group A/S,
+    Ticker: FLUG-B.XCSE,
+    SourceSymbol: FLUG-B.XCSE
+  },
+  {
+    Name: FOM Technologies A/S,
+    Ticker: FOM.XCSE,
+    SourceSymbol: FOM.XCSE
+  },
+  {
+    Name: Formuepleje Forbrugsaktier,
+    Ticker: FPIFAK.XCSE,
+    SourceSymbol: FPIFAK.XCSE
+  },
+  {
+    Name: Formuepleje Globale Aktier,
+    Ticker: FPIGA.XCSE,
+    SourceSymbol: FPIGA.XCSE
+  },
+  {
+    Name: Formuepleje LimiTTellus,
+    Ticker: FPILIM.XCSE,
+    SourceSymbol: FPILIM.XCSE
+  },
+  {
+    Name: Formuepleje Optimum,
+    Ticker: FPIOPT.XCSE,
+    SourceSymbol: FPIOPT.XCSE
+  },
+  {
+    Name: Formuepleje Epikur,
+    Ticker: FPKEPI.XCSE,
+    SourceSymbol: FPKEPI.XCSE
+  },
+  {
+    Name: Formuepleje Fokus,
+    Ticker: FPKFO.XCSE,
+    SourceSymbol: FPKFO.XCSE
+  },
+  {
+    Name: Formuepleje Merkur,
+    Ticker: FPKMER.XCSE,
+    SourceSymbol: FPKMER.XCSE
+  },
+  {
+    Name: Formuepleje Pareto,
+    Ticker: FPKPAR.XCSE,
+    SourceSymbol: FPKPAR.XCSE
+  },
+  {
+    Name: Formuepleje Penta,
+    Ticker: FPKPEN.XCSE,
+    SourceSymbol: FPKPEN.XCSE
+  },
+  {
+    Name: Formuepleje Safe,
+    Ticker: FPKSAF.XCSE,
+    SourceSymbol: FPKSAF.XCSE
+  },
+  {
+    Name: Fundamental Invest Stock Pick,
+    Ticker: FUISP.XCSE,
+    SourceSymbol: FUISP.XCSE
+  },
+  {
+    Name: Fundamental Invest Stock Pick II Akk,
+    Ticker: FUISPA.XCSE,
+    SourceSymbol: FUISPA.XCSE
+  },
+  {
+    Name: Gyldendal A/S,
+    Ticker: GYLD-A.XCSE,
+    SourceSymbol: GYLD-A.XCSE
+  },
+  {
+    Name: Gyldendal A/S,
+    Ticker: GYLD-B.XCSE,
+    SourceSymbol: GYLD-B.XCSE
+  },
+  {
+    Name: Handelsinvest - Defensiv 10,
+    Ticker: HAID10A.XCSE,
+    SourceSymbol: HAID10A.XCSE
+  },
+  {
+    Name: Handelsinvest - Defensiv 30,
+    Ticker: HAID30A.XCSE,
+    SourceSymbol: HAID30A.XCSE
+  },
+  {
+    Name: Handelsinvest Danmark,
+    Ticker: HAIDK.XCSE,
+    SourceSymbol: HAIDK.XCSE
+  },
+  {
+    Name: Handelsinvest Danske Obligationer,
+    Ticker: HAIDKOBL.XCSE,
+    SourceSymbol: HAIDKOBL.XCSE
+  },
+  {
+    Name: Handelsinvest Europa,
+    Ticker: HAIEU.XCSE,
+    SourceSymbol: HAIEU.XCSE
+  },
+  {
+    Name: Handelsinvest Fjern&#195;&#184;sten,
+    Ticker: HAIFJ.XCSE,
+    SourceSymbol: HAIFJ.XCSE
+  },
+  {
+    Name: Handelsinvest H&#195;&#184;jrentelande,
+    Ticker: HAIHRTL.XCSE,
+    SourceSymbol: HAIHRTL.XCSE
+  },
+  {
+    Name: Handelsinvest Nordamerika,
+    Ticker: HAINAM.XCSE,
+    SourceSymbol: HAINAM.XCSE
+  },
+  {
+    Name: Handelsinvest Norden,
+    Ticker: HAINOR.XCSE,
+    SourceSymbol: HAINOR.XCSE
+  },
+  {
+    Name: Handelsinvest Offensiv 80 (AK),
+    Ticker: HAIOF80A.XCSE,
+    SourceSymbol: HAIOF80A.XCSE
+  },
+  {
+    Name: Handelsinvest Verden,
+    Ticker: HAIVER.XCSE,
+    SourceSymbol: HAIVER.XCSE
+  },
+  {
+    Name: Handelsinvest Virksomhedsobligationer,
+    Ticker: HAIVOB.XCSE,
+    SourceSymbol: HAIVOB.XCSE
+  },
+  {
+    Name: Harboes Bryggeri A/S,
+    Ticker: HARB-B.XCSE,
+    SourceSymbol: HARB-B.XCSE
+  },
+  {
+    Name: HP Invest Danske Obligationer Akk. - KL,
+    Ticker: HPIDOAKL.XCSE,
+    SourceSymbol: HPIDOAKL.XCSE
+  },
+  {
+    Name: HP Invest Lange Danske Obligationer - KL,
+    Ticker: HPILDOKL.XCSE,
+    SourceSymbol: HPILDOKL.XCSE
+  },
+  {
+    Name: HusCompagniet A/S,
+    Ticker: HUSCO.XCSE,
+    SourceSymbol: HUSCO.XCSE
+  },
+  {
+    Name: Independent Global Akk,
+    Ticker: IIVGLA.XCSE,
+    SourceSymbol: IIVGLA.XCSE
+  },
+  {
+    Name: Investin Aktiv Balance,
+    Ticker: INIAB.XCSE,
+    SourceSymbol: INIAB.XCSE
+  },
+  {
+    Name: Investin Demetra,
+    Ticker: INIDEM.XCSE,
+    SourceSymbol: INIDEM.XCSE
+  },
+  {
+    Name: Investin Optimal Livscyklus 2030-40,
+    Ticker: INIOLC.XCSE,
+    SourceSymbol: INIOLC.XCSE
+  },
+  {
+    Name: Investin Optimal Stabil,
+    Ticker: INIOPS.XCSE,
+    SourceSymbol: INIOPS.XCSE
+  },
+  {
+    Name: Investin Optimal VerdensIndex Moderat,
+    Ticker: INIOVM.XCSE,
+    SourceSymbol: INIOVM.XCSE
+  },
+  {
+    Name: Jyske Invest Aktier Lav Volatilitet KL,
+    Ticker: JYIALVKL.XCSE,
+    SourceSymbol: JYIALVKL.XCSE
+  },
+  {
+    Name: Jyske Invest - Europæiske Aktier KL,
+    Ticker: JYIEUAKL.XCSE,
+    SourceSymbol: JYIEUAKL.XCSE
+  },
+  {
+    Name: Jyske Invest Favorit Aktier KL,
+    Ticker: JYIFAVKL.XCSE,
+    SourceSymbol: JYIFAVKL.XCSE
+  },
+  {
+    Name: Jyske Invest - Fjernøsten Aktier KL,
+    Ticker: JYIFJEKL.XCSE,
+    SourceSymbol: JYIFJEKL.XCSE
+  },
+  {
+    Name: Jyske Invest Favorit Obligationer KL,
+    Ticker: JYIFOBKL.XCSE,
+    SourceSymbol: JYIFOBKL.XCSE
+  },
+  {
+    Name: Jyske Invest Globale Aktier KL,
+    Ticker: JYIGLOKL.XCSE,
+    SourceSymbol: JYIGLOKL.XCSE
+  },
+  {
+    Name: Jyske Invest - Højt Ratede Virksomhedsobligationer,
+    Ticker: JYIHRVKL.XCSE,
+    SourceSymbol: JYIHRVKL.XCSE
+  },
+  {
+    Name: Jyske Invest Kinesiske Aktier KL,
+    Ticker: JYIKIKL.XCSE,
+    SourceSymbol: JYIKIKL.XCSE
+  },
+  {
+    Name: Jyske Invest - Korte Obligationer KL,
+    Ticker: JYIKOBKL.XCSE,
+    SourceSymbol: JYIKOBKL.XCSE
+  },
+  {
+    Name: Jyske Invest - Lange Obligationer,
+    Ticker: JYILOBKL.XCSE,
+    SourceSymbol: JYILOBKL.XCSE
+  },
+  {
+    Name: Jyske Invest - Nye Obligationsmarkeder KL,
+    Ticker: JYINOBKL.XCSE,
+    SourceSymbol: JYINOBKL.XCSE
+  },
+  {
+    Name: Jyske Invest Nye Aktiemarkeder KL,
+    Ticker: JYINYAKL.XCSE,
+    SourceSymbol: JYINYAKL.XCSE
+  },
+  {
+    Name: Jyske Invest Obligationer og Aktier KL,
+    Ticker: JYIOBAKKL.XCSE,
+    SourceSymbol: JYIOBAKKL.XCSE
+  },
+  {
+    Name: Jyske Invest USA Aktier KL,
+    Ticker: JYIUSAKL.XCSE,
+    SourceSymbol: JYIUSAKL.XCSE
+  },
+  {
+    Name: Jyske Invest - Virksomhedsobligationer KL,
+    Ticker: JYIVIRKKL.XCSE,
+    SourceSymbol: JYIVIRKKL.XCSE
+  },
+  {
+    Name: Brd. Klee A/S,
+    Ticker: KLEE-B.XCSE,
+    SourceSymbol: KLEE-B.XCSE
+  },
+  {
+    Name: L&#195;&#165;n & Spar Invest - Danske Aktier,
+    Ticker: LSIDKA.XCSE,
+    SourceSymbol: LSIDKA.XCSE
+  },
+  {
+    Name: L&#195;&#165;n & Spar Invest - Europa Classics,
+    Ticker: LSIEUC.XCSE,
+    SourceSymbol: LSIEUC.XCSE
+  },
+  {
+    Name: L&#195;&#165;n & Spar Invest - MixObligationer,
+    Ticker: LSIOB.XCSE,
+    SourceSymbol: LSIOB.XCSE
+  },
+  {
+    Name: L&#195;&#165;n & Spar Invest - Obligationer Inc,
+    Ticker: LSIOBL.XCSE,
+    SourceSymbol: LSIOBL.XCSE
+  },
+  {
+    Name: Investeringsselskabet Luxor A/S,
+    Ticker: LUXOR-B.XCSE,
+    SourceSymbol: LUXOR-B.XCSE
+  },
+  {
+    Name: A.P. Møller - Mærsk A/S,
+    Ticker: MAERSK-A.XCSE,
+    SourceSymbol: MAERSK-A.XCSE
+  },
+  {
+    Name: A.P. Møller - Mærsk A/S,
+    Ticker: MAERSK-B.XCSE,
+    SourceSymbol: MAERSK-B.XCSE
+  },
+  {
+    Name: Maj Invest Danske Aktier,
+    Ticker: MAJDKA.XCSE,
+    SourceSymbol: MAJDKA.XCSE
+  },
+  {
+    Name: Maj Invest Danske Obligationer,
+    Ticker: MAJDKO.XCSE,
+    SourceSymbol: MAJDKO.XCSE
+  },
+  {
+    Name: Maj Invest Emerging Markets,
+    Ticker: MAJEMA.XCSE,
+    SourceSymbol: MAJEMA.XCSE
+  },
+  {
+    Name: Maj Invest Globale Obligationer,
+    Ticker: MAJGO.XCSE,
+    SourceSymbol: MAJGO.XCSE
+  },
+  {
+    Name: Maj Invest Global Sundhed,
+    Ticker: MAJGS.XCSE,
+    SourceSymbol: MAJGS.XCSE
+  },
+  {
+    Name: Maj Invest High Income Obligationer,
+    Ticker: MAJHIO.XCSE,
+    SourceSymbol: MAJHIO.XCSE
+  },
+  {
+    Name: Maj Invest Kontra,
+    Ticker: MAJKON.XCSE,
+    SourceSymbol: MAJKON.XCSE
+  },
+  {
+    Name: Maj Invest Makro,
+    Ticker: MAJMAK.XCSE,
+    SourceSymbol: MAJMAK.XCSE
+  },
+  {
+    Name: Maj Invest Pension,
+    Ticker: MAJPEN.XCSE,
+    SourceSymbol: MAJPEN.XCSE
+  },
+  {
+    Name: Maj Invest - Maj Invest Vækstaktier KL,
+    Ticker: MAJVA.XCSE,
+    SourceSymbol: MAJVA.XCSE
+  },
+  {
+    Name: Maj Invest Value Aktier Akk,
+    Ticker: MAJVAA.XCSE,
+    SourceSymbol: MAJVAA.XCSE
+  },
+  {
+    Name: Maj Invest Value Aktier,
+    Ticker: MAJVAL.XCSE,
+    SourceSymbol: MAJVAL.XCSE
+  },
+  {
+    Name: Mdundo.com A/S,
+    Ticker: MDUNDO.XCSE,
+    SourceSymbol: MDUNDO.XCSE
+  },
+  {
+    Name: Svejsemaskinefabrikken Migatronic A/S,
+    Ticker: MIGA-B.XCSE,
+    SourceSymbol: MIGA-B.XCSE
+  },
+  {
+    Name: MMI Globale Aktier &#226;&#128;&#147; Harding Loev,
+    Ticker: MMIGA.XCSE,
+    SourceSymbol: MMIGA.XCSE
+  },
+  {
+    Name: MMI Globale Aktier Akk. &#226;&#128;&#147; Harding,
+    Ticker: MMIGAA.XCSE,
+    SourceSymbol: MMIGAA.XCSE
+  },
+  {
+    Name: MMI Nye Obligationsmarkeder - Ninety One,
+    Ticker: MMINO.XCSE,
+    SourceSymbol: MMINO.XCSE
+  },
+  {
+    Name: MMI Nye Obligationsmarkeder Akk. - Ninety One,
+    Ticker: MMINOA.XCSE,
+    SourceSymbol: MMINOA.XCSE
+  },
+  {
+    Name: Monsenso A/S,
+    Ticker: MONSO.XCSE,
+    SourceSymbol: MONSO.XCSE
+  },
+  {
+    Name: MS Invest Value Aktier,
+    Ticker: MSIVAK.XCSE,
+    SourceSymbol: MSIVAK.XCSE
+  },
+  {
+    Name: Nordea Bank Abp,
+    Ticker: NDA-DK.XCSE,
+    SourceSymbol: NDA-DK.XCSE
+  },
+  {
+    Name: NexCom A/S,
+    Ticker: NEXCOM.XCSE,
+    SourceSymbol: NEXCOM.XCSE
+  },
+  {
+    Name: Novo Nordisk A/S,
+    Ticker: NOVO-B.XCSE,
+    SourceSymbol: NOVO-B.XCSE
+  },
+  {
+    Name: NTR Holding A/S,
+    Ticker: NTR-B.XCSE,
+    SourceSymbol: NTR-B.XCSE
+  },
+  {
+    Name: Nykredit Invest Bæredygtige Aktier,
+    Ticker: NYIBDA.XCSE,
+    SourceSymbol: NYIBDA.XCSE
+  },
+  {
+    Name: Nykredit Invest Balance Offensiv,
+    Ticker: NYIBO.XCSE,
+    SourceSymbol: NYIBO.XCSE
+  },
+  {
+    Name: Nykredit Invest Danske Aktier,
+    Ticker: NYIDA.XCSE,
+    SourceSymbol: NYIDA.XCSE
+  },
+  {
+    Name: Nykredit Invest Danske Aktier Akk,
+    Ticker: NYIDAA.XCSE,
+    SourceSymbol: NYIDAA.XCSE
+  },
+  {
+    Name: Nykredit Invest Globale Aktier SRI Akk,
+    Ticker: NYIGAS.XCSE,
+    SourceSymbol: NYIGAS.XCSE
+  },
+  {
+    Name: Nykredit Invest Globale Fokusaktier Akk,
+    Ticker: NYIGFA.XCSE,
+    SourceSymbol: NYIGFA.XCSE
+  },
+  {
+    Name: Nykredit Invest Globale Fokusaktier,
+    Ticker: NYIGLA.XCSE,
+    SourceSymbol: NYIGLA.XCSE
+  },
+  {
+    Name: Nykredit Invest Globale Aktier SRI,
+    Ticker: NYIGSA.XCSE,
+    SourceSymbol: NYIGSA.XCSE
+  },
+  {
+    Name: Nykredit Invest Korte Obligationer,
+    Ticker: NYIKO.XCSE,
+    SourceSymbol: NYIKO.XCSE
+  },
+  {
+    Name: Nykredit Invest Korte Obligationer Akk,
+    Ticker: NYIKOA.XCSE,
+    SourceSymbol: NYIKOA.XCSE
+  },
+  {
+    Name: Nykredit Invest Kreditobligationer,
+    Ticker: NYIKRO.XCSE,
+    SourceSymbol: NYIKRO.XCSE
+  },
+  {
+    Name: Nykredit Invest Lange Obligationer,
+    Ticker: NYILO.XCSE,
+    SourceSymbol: NYILO.XCSE
+  },
+  {
+    Name: Nykredit Invest Lange Obligationer Akk,
+    Ticker: NYILOA.XCSE,
+    SourceSymbol: NYILOA.XCSE
+  },
+  {
+    Name: Nykredit Invest Balance Moderat,
+    Ticker: NYKBM.XCSE,
+    SourceSymbol: NYKBM.XCSE
+  },
+  {
+    Name: Nykredit Invest Danske Fokusaktier,
+    Ticker: NYKDFA.XCSE,
+    SourceSymbol: NYKDFA.XCSE
+  },
+  {
+    Name: Novozymes A/S,
+    Ticker: NZYM-B.XCSE,
+    SourceSymbol: NZYM-B.XCSE
+  },
+  {
+    Name: Per Aarsleff Holding A/S,
+    Ticker: PAAL-B.XCSE,
+    SourceSymbol: PAAL-B.XCSE
+  },
+  {
+    Name: Penneo ApS,
+    Ticker: PENNEO.XCSE,
+    SourceSymbol: PENNEO.XCSE
+  },
+  {
+    Name: PFA Invest Balance AA,
+    Ticker: PFIBA.XCSE,
+    SourceSymbol: PFIBA.XCSE
+  },
+  {
+    Name: PFA Invest Balance A,
+    Ticker: PFIBAA.XCSE,
+    SourceSymbol: PFIBAA.XCSE
+  },
+  {
+    Name: PFA Invest Balance B,
+    Ticker: PFIBAB.XCSE,
+    SourceSymbol: PFIBAB.XCSE
+  },
+  {
+    Name: PFA Invest Balance C,
+    Ticker: PFIBAC.XCSE,
+    SourceSymbol: PFIBAC.XCSE
+  },
+  {
+    Name: PFA Invest Balance Akk,
+    Ticker: PFIBAK.XCSE,
+    SourceSymbol: PFIBAK.XCSE
+  },
+  {
+    Name: PFA Invest Danske Aktier,
+    Ticker: PFIDKA.XCSE,
+    SourceSymbol: PFIDKA.XCSE
+  },
+  {
+    Name: PFA Invest Globale Aktier,
+    Ticker: PFIGLA.XCSE,
+    SourceSymbol: PFIGLA.XCSE
+  },
+  {
+    Name: PFA Invest H&#195;&#184;jt Udbytte Aktier,
+    Ticker: PFIHUA.XCSE,
+    SourceSymbol: PFIHUA.XCSE
+  },
+  {
+    Name: PFA Invest Kreditobligationer,
+    Ticker: PFIKRB.XCSE,
+    SourceSymbol: PFIKRB.XCSE
+  },
+  {
+    Name: PFA Invest USA Stabile Aktier,
+    Ticker: PFIUSA.XCSE,
+    SourceSymbol: PFIUSA.XCSE
+  },
+  {
+    Name: Park Street Nordicom A/S,
+    Ticker: PSNRDC-A.XCSE,
+    SourceSymbol: PSNRDC-A.XCSE
+  },
+  {
+    Name: Roblon A/S,
+    Ticker: RBLN-B.XCSE,
+    SourceSymbol: RBLN-B.XCSE
+  },
+  {
+    Name: RIAS A/S,
+    Ticker: RIAS-B.XCSE,
+    SourceSymbol: RIAS-B.XCSE
+  },
+  {
+    Name: ROCKWOOL International A/S,
+    Ticker: ROCK-A.XCSE,
+    SourceSymbol: ROCK-A.XCSE
+  },
+  {
+    Name: ROCKWOOL International A/S,
+    Ticker: ROCK-B.XCSE,
+    SourceSymbol: ROCK-B.XCSE
+  },
+  {
+    Name: Rovsing A/S,
+    Ticker: ROV.XCSE,
+    SourceSymbol: ROV.XCSE
+  },
+  {
+    Name: SAS AB (publ),
+    Ticker: SAS-DKK.XCSE,
+    SourceSymbol: SAS-DKK.XCSE
+  },
+  {
+    Name: SDG Invest,
+    Ticker: SDKINV.XCSE,
+    SourceSymbol: SDKINV.XCSE
+  },
+  {
+    Name: SEBinvest - Balance Vækst AKL,
+    Ticker: SEIBVP.XCSE,
+    SourceSymbol: SEIBVP.XCSE
+  },
+  {
+    Name: SEBinvest - Danske Aktier Akkumulerende AKL,
+    Ticker: SEIDAAP.XCSE,
+    SourceSymbol: SEIDAAP.XCSE
+  },
+  {
+    Name: SEBinvest - Danske Aktier AKL,
+    Ticker: SEIDKAP.XCSE,
+    SourceSymbol: SEIDKAP.XCSE
+  },
+  {
+    Name: SEBinvest - Europa Højt Udbytte AKL,
+    Ticker: SEIEHUP.XCSE,
+    SourceSymbol: SEIEHUP.XCSE
+  },
+  {
+    Name: SEBinvest - Europa Small Cap AKL,
+    Ticker: SEIESCP.XCSE,
+    SourceSymbol: SEIESCP.XCSE
+  },
+  {
+    Name: SEBinvest - US HY Bonds Short Duration (SKY Harbor,
+    Ticker: SEIHYSP.XCSE,
+    SourceSymbol: SEIHYSP.XCSE
+  },
+  {
+    Name: SEBinvest - Japan Hybrid AKL,
+    Ticker: SEIJHP.XCSE,
+    SourceSymbol: SEIJHP.XCSE
+  },
+  {
+    Name: SEBinvest - Kreditobligationer (Euro) AKL,
+    Ticker: SEIKOBP.XCSE,
+    SourceSymbol: SEIKOBP.XCSE
+  },
+  {
+    Name: SEBinvest Mellemlange Obligationer,
+    Ticker: SEIMOBL.XCSE,
+    SourceSymbol: SEIMOBL.XCSE
+  },
+  {
+    Name: SEBinvest Nordamerika Indeks,
+    Ticker: SEINAII.XCSE,
+    SourceSymbol: SEINAII.XCSE
+  },
+  {
+    Name: SEBinvest - Nordiske Aktier AKL,
+    Ticker: SEINAKP.XCSE,
+    SourceSymbol: SEINAKP.XCSE
+  },
+  {
+    Name: SEBinvest - US High Yield Bonds (Columbia) AKL,
+    Ticker: SEIUHYBP.XCSE,
+    SourceSymbol: SEIUHYBP.XCSE
+  },
+  {
+    Name: Shape Robotics A/S,
+    Ticker: SHAPE.XCSE,
+    SourceSymbol: SHAPE.XCSE
+  },
+  {
+    Name: Stonehenge Globale Valueaktier KL,
+    Ticker: SHIGVAKL.XCSE,
+    SourceSymbol: SHIGVAKL.XCSE
+  },
+  {
+    Name: SKAGEN Global A,
+    Ticker: SKIGLO.XCSE,
+    SourceSymbol: SKIGLO.XCSE
+  },
+  {
+    Name: SKAGEN Kon-Tiki A,
+    Ticker: SKIKON.XCSE,
+    SourceSymbol: SKIKON.XCSE
+  },
+  {
+    Name: SKAGEN m2 A,
+    Ticker: SKIM2.XCSE,
+    SourceSymbol: SKIM2.XCSE
+  },
+  {
+    Name: SKAGEN Vekst A,
+    Ticker: SKIVEK.XCSE,
+    SourceSymbol: SKIVEK.XCSE
+  },
+  {
+    Name: Solar A/S,
+    Ticker: SOLAR-B.XCSE,
+    SourceSymbol: SOLAR-B.XCSE
+  },
+  {
+    Name: Sydinvest Korte Obligationer KL,
+    Ticker: SPIKOOKLA.XCSE,
+    SourceSymbol: SPIKOOKLA.XCSE
+  },
+  {
+    Name: StockRate Invest Globale Aktier,
+    Ticker: SRIGAU.XCSE,
+    SourceSymbol: SRIGAU.XCSE
+  },
+  {
+    Name: Storebrand Indeks - Alle Markeder,
+    Ticker: STIIAM.XCSE,
+    SourceSymbol: STIIAM.XCSE
+  },
+  {
+    Name: Sydinvest Danmark A DKK,
+    Ticker: SYIADKK.XCSE,
+    SourceSymbol: SYIADKK.XCSE
+  },
+  {
+    Name: Sydinvest BRIK Akkumulerende KL,
+    Ticker: SYIBRIKADKKAKK.,
+    SourceSymbol: SYIBRIKADKKAKK.
+  },
+  {
+    Name: Sydinvest BRIK KL,
+    Ticker: SYIBRIKL.XCSE,
+    SourceSymbol: SYIBRIKL.XCSE
+  },
+  {
+    Name: Sydinvest Europa Ligevægt & Value KL,
+    Ticker: SYIEULVADKK.XCS,
+    SourceSymbol: SYIEULVADKK.XCS
+  },
+  {
+    Name: Sydinvest Fjern&#195;&#184;sten A DKK Akk,
+    Ticker: SYIFJERADKKA.XC,
+    SourceSymbol: SYIFJERADKKA.XC
+  },
+  {
+    Name: Sydinvest Fonde Inc KL,
+    Ticker: SYIFONKL.XCSE,
+    SourceSymbol: SYIFONKL.XCSE
+  },
+  {
+    Name: Sydinvest Globale EM-Aktier KL,
+    Ticker: SYIGEAADKK.XCSE,
+    SourceSymbol: SYIGEAADKK.XCSE
+  },
+  {
+    Name: Sydinvest H&#195;&#184;jrenteLande Korte Obligatio,
+    Ticker: SYIHRLKOADKKA.X,
+    SourceSymbol: SYIHRLKOADKKA.X
+  },
+  {
+    Name: Sydinvest H&#195;&#184;jrenteLande A DKK,
+    Ticker: SYIHYADKK.XCSE,
+    SourceSymbol: SYIHYADKK.XCSE
+  },
+  {
+    Name: Sydinvest - HøjrenteLande Lokal Valuta KL,
+    Ticker: SYIHYLVADKK.XCS,
+    SourceSymbol: SYIHYLVADKK.XCS
+  },
+  {
+    Name: Sydinvest HøjrenteLande Mix KL,
+    Ticker: SYIHYMADKK.XCSE,
+    SourceSymbol: SYIHYMADKK.XCSE
+  },
+  {
+    Name: Sydinvest HøjrenteLande Valuta KL,
+    Ticker: SYIHYVADKK.XCSE,
+    SourceSymbol: SYIHYVADKK.XCSE
+  },
+  {
+    Name: Sydinvest International A DKK,
+    Ticker: SYIINTADKK.XCSE,
+    SourceSymbol: SYIINTADKK.XCSE
+  },
+  {
+    Name: Sydinvest Korte Obligationer KL,
+    Ticker: SYIKOADKK.XCSE,
+    SourceSymbol: SYIKOADKK.XCSE
+  },
+  {
+    Name: Sydinvest Latinamerika KL,
+    Ticker: SYILATKL.XCSE,
+    SourceSymbol: SYILATKL.XCSE
+  },
+  {
+    Name: Sydinvest Mellemlange Obligationer A DKK,
+    Ticker: SYIMOADKK.XCSE,
+    SourceSymbol: SYIMOADKK.XCSE
+  },
+  {
+    Name: Sydinvest Mellemlange Obligationer A DKK Akk,
+    Ticker: SYIMOADKKA.XCSE,
+    SourceSymbol: SYIMOADKKA.XCSE
+  },
+  {
+    Name: Sydinvest Tyskland KL,
+    Ticker: SYITYSKADKK.XCS,
+    SourceSymbol: SYITYSKADKK.XCS
+  },
+  {
+    Name: Sydinvest - USA Ligevægt & Value,
+    Ticker: SYIULVADKK.XCSE,
+    SourceSymbol: SYIULVADKK.XCSE
+  },
+  {
+    Name: Sydinvest Verden Ligev&#195;&#166;gt & Value A DKK,
+    Ticker: SYIVLVADKK.XCSE,
+    SourceSymbol: SYIVLVADKK.XCSE
+  },
+  {
+    Name: Sydinvest Virksomhedsobligationer HY KL,
+    Ticker: SYIVOHYADKK.XCS,
+    SourceSymbol: SYIVOHYADKK.XCS
+  },
+  {
+    Name: Sydinvest Aggressiv Akk A,
+    Ticker: SYVAAA.XCSE,
+    SourceSymbol: SYVAAA.XCSE
+  },
+  {
+    Name: Sydinvest Aggressiv Udb A,
+    Ticker: SYVAUA.XCSE,
+    SourceSymbol: SYVAUA.XCSE
+  },
+  {
+    Name: Sydinvest Balanceret Akk A,
+    Ticker: SYVBAA.XCSE,
+    SourceSymbol: SYVBAA.XCSE
+  },
+  {
+    Name: Sydinvest Balanceret Udb A,
+    Ticker: SYVBUA.XCSE,
+    SourceSymbol: SYVBUA.XCSE
+  },
+  {
+    Name: Sydinvest Konservativ Akk A,
+    Ticker: SYVKAA.XCSE,
+    SourceSymbol: SYVKAA.XCSE
+  },
+  {
+    Name: Sydinvest Konservativ Udb A,
+    Ticker: SYVKUA.XCSE,
+    SourceSymbol: SYVKUA.XCSE
+  },
+  {
+    Name: Sydinvest V&#195;&#166;kstorienteret Akk A,
+    Ticker: SYVVAA.XCSE,
+    SourceSymbol: SYVVAA.XCSE
+  },
+  {
+    Name: Sydinvest V&#195;&#166;kstorienteret Udb A,
+    Ticker: SYVVUA.XCSE,
+    SourceSymbol: SYVVUA.XCSE
+  },
+  {
+    Name: TORM plc,
+    Ticker: TRMD-A.XCSE,
+    SourceSymbol: TRMD-A.XCSE
+  },
+  {
+    Name: ValueInvest Global Akk KL,
+    Ticker: VAIGAKA.XCSE,
+    SourceSymbol: VAIGAKA.XCSE
+  },
+  {
+    Name: ValueInvest Global KL,
+    Ticker: VAIGLOA.XCSE,
+    SourceSymbol: VAIGLOA.XCSE
+  },
+  {
+    Name: ValueInvest Japan KL,
+    Ticker: VAIJAPA.XCSE,
+    SourceSymbol: VAIJAPA.XCSE
+  },
+  {
+    Name: WindowMaster International A/S,
+    Ticker: WMA.XCSE,
+    SourceSymbol: WMA.XCSE
+  },
+  {
+    Name: XACT OMXC25,
+    Ticker: XACTC25.XCSE,
+    SourceSymbol: XACTC25.XCSE
+  },
+  {
+    Name: Boozt AB (publ),
+    Ticker: BOOZT-DKK.XCSE,
+    SourceSymbol: BOOZT-DKK.XCSE
+  },
+  {
+    Name: Bactiquant A/S,
+    Ticker: BACTIQ.XCSE,
+    SourceSymbol: BACTIQ.XCSE
+  },
+  {
+    Name: Hydract A/S,
+    Ticker: HYDRCT.XCSE,
+    SourceSymbol: HYDRCT.XCSE
+  },
+  {
+    Name: Kapitalforeningen BLS Invest - Danske Aktier AKK.,
+    Ticker: BLKDKAA.XCSE,
+    SourceSymbol: BLKDKAA.XCSE
+  },
+  {
+    Name: Digizuite A/S,
+    Ticker: DIGIZ.XCSE,
+    SourceSymbol: DIGIZ.XCSE
+  },
+  {
+    Name: Valuer Holding A/S,
+    Ticker: VALUER.XCSE,
+    SourceSymbol: VALUER.XCSE
+  },
+  {
+    Name: Investeringsforeningen AP,
+    Ticker: SYIVLVADKKA.XCS,
+    SourceSymbol: SYIVLVADKKA.XCS
+  },
+  {
+    Name: Green Hydrogen Systems A/S TEMP,
+    Ticker: GREENH-TEMP.XCS,
+    SourceSymbol: GREENH-TEMP.XCS
+  },
+  {
+    Name: Trifork Holding AG,
+    Ticker: TRIFOR.XCSE,
+    SourceSymbol: TRIFOR.XCSE
+  },
+  {
+    Name: Aquaporin A/S,
+    Ticker: AQP.XCSE,
+    SourceSymbol: AQP.XCSE
+  },
+  {
+    Name: Astralis A/S,
+    Ticker: ASTRLS.XCSE,
+    SourceSymbol: ASTRLS.XCSE
+  },
+  {
+    Name: BankNordik P/F,
+    Ticker: BNORDIK.XCSE,
+    SourceSymbol: BNORDIK.XCSE
+  },
+  {
+    Name: Boozt AB,
+    Ticker: BOOZT.XCSE,
+    SourceSymbol: BOOZT.XCSE
+  },
+  {
+    Name: Copyright Agent A/S,
+    Ticker: COPY.XCSE,
+    SourceSymbol: COPY.XCSE
+  },
+  {
+    Name: Dataproces Group A/S,
+    Ticker: DATA.XCSE,
+    SourceSymbol: DATA.XCSE
+  },
+  {
+    Name: DonkeyRepublic Holding A/S,
+    Ticker: DONKEY.XCSE,
+    SourceSymbol: DONKEY.XCSE
+  },
+  {
+    Name: Green Hydrogen Systems A/S,
+    Ticker: GREENH.XCSE,
+    SourceSymbol: GREENH.XCSE
+  },
+  {
+    Name: HRC World PLC,
+    Ticker: HRC.XCSE,
+    SourceSymbol: HRC.XCSE
+  },
+  {
+    Name: Impero A/S,
+    Ticker: IMPERO.XCSE,
+    SourceSymbol: IMPERO.XCSE
+  },
+  {
+    Name: LED iBond International A/S,
+    Ticker: LEDIBOND.XCSE,
+    SourceSymbol: LEDIBOND.XCSE
+  },
+  {
+    Name: MapsPeople A/S,
+    Ticker: MAPS.XCSE,
+    SourceSymbol: MAPS.XCSE
+  },
+  {
+    Name: Nord.investments A/S,
+    Ticker: NORD.XCSE,
+    SourceSymbol: NORD.XCSE
+  },
+  {
+    Name: Park Street A/S,
+    Ticker: PARKST.A.XCSE,
+    SourceSymbol: PARKST.A.XCSE
+  },
+  {
+    Name: Risma Systems A/S,
+    Ticker: RISMA.XCSE,
+    SourceSymbol: RISMA.XCSE
+  },
+  {
+    Name: SameSystem A/S,
+    Ticker: SAME.XCSE,
+    SourceSymbol: SAME.XCSE
+  },
+  {
+    Name: SAS AB,
+    Ticker: SAS.XCSE,
+    SourceSymbol: SAS.XCSE
+  },
+  {
+    Name: StenoCare A/S,
+    Ticker: STENO.XCSE,
+    SourceSymbol: STENO.XCSE
+  },
+  {
+    Name: Trophy Games Development A/S,
+    Ticker: TGAMES.XCSE,
+    SourceSymbol: TGAMES.XCSE
+  },
+  {
+    Name: OrderYOYO A/S,
+    Ticker: YOYO.XCSE,
+    SourceSymbol: YOYO.XCSE
+  },
+  {
+    Name: Park Street A/S,
+    Ticker: PARKST-A.XCSE,
+    SourceSymbol: PARKST-A.XCSE
+  },
+  {
+    Name: Hometown A/S,
+    Ticker: TOWN.XCSE,
+    SourceSymbol: TOWN.XCSE
+  },
+  {
+    Name: Brain+ A/S,
+    Ticker: BRAINP.XCSE,
+    SourceSymbol: BRAINP.XCSE
+  },
+  {
+    Name: Scandinavian Medical Solutions A/S,
+    Ticker: SMSMED.XCSE,
+    SourceSymbol: SMSMED.XCSE
+  },
+  {
+    Name: Movinn A/S,
+    Ticker: MOVINN.XCSE,
+    SourceSymbol: MOVINN.XCSE
+  },
+  {
+    Name: Q-Interline A/S,
+    Ticker: QINTER.XCSE,
+    SourceSymbol: QINTER.XCSE
+  },
+  {
+    Name: SPENN Technology A/S,
+    Ticker: SPENN.XCSE,
+    SourceSymbol: SPENN.XCSE
+  },
+  {
+    Name: Hove A/S,
+    Ticker: HOVE.XCSE,
+    SourceSymbol: HOVE.XCSE
+  },
+  {
+    Name: Relesys A/S,
+    Ticker: RELE.XCSE,
+    SourceSymbol: RELE.XCSE
+  },
+  {
+    Name: Re-Match Holding A/S,
+    Ticker: RMATCH.XCSE,
+    SourceSymbol: RMATCH.XCSE
+  },
+  {
+    Name: Ennogie Solar Group A/S,
+    Ticker: ESG.XCSE,
+    SourceSymbol: ESG.XCSE
+  },
+  {
+    Name: Broedrene A&O Johansen A/S Series B,
+    Ticker: AOJ-B.XCSE,
+    SourceSymbol: AOJ-B.XCSE
+  },
+  {
+    Name: H Lundbeck A/S,
+    Ticker: HLUN-A.XCSE,
+    SourceSymbol: HLUN-A.XCSE
+  },
+  {
+    Name: H Lundbeck A/S,
+    Ticker: HLUN-B.XCSE,
+    SourceSymbol: HLUN-B.XCSE
+  },
+  {
+    Name: BI Boligejendomme A/S,
+    Ticker: BIABED.XCSE,
+    SourceSymbol: BIABED.XCSE
+  },
+  {
+    Name: Swiss Properties Invest A/S,
+    Ticker: SWISS.XCSE,
+    SourceSymbol: SWISS.XCSE
+  },
+  {
+    Name: Noble Corp. PLC,
+    Ticker: NOBLE.XCSE,
+    SourceSymbol: NOBLE.XCSE
+  }
+]
