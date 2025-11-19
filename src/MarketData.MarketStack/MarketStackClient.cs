@@ -1,7 +1,9 @@
 ﻿using MarketData.MarketStack.Model;
+using MarketData.MarketStack.Model.Converters;
 using MarketData.Model;
 using MarketData.Model.Model;
 using System.Net.Http.Json;
+using System.Text.Json;
 
 namespace MarketData.MarketStack;
 
@@ -17,6 +19,8 @@ public class MarketStackClient : IMarketStackClient
     private readonly HttpClient _httpClient;
     private readonly MarketStackClientConfig _config;
 
+    public static JsonSerializerOptions SerializerOptions = MarketStackSerializerOptions();
+
     public MarketStackClient(HttpClient httpClient, MarketStackClientConfig config)
     {
         _httpClient = httpClient;
@@ -28,7 +32,7 @@ public class MarketStackClient : IMarketStackClient
 
     public async Task<IEnumerable<Exchange>> GetExchanges()
     {
-        var exchanges = await Get<MarketStackExchange[], MarketStackExchange>("v1/exchanges", x => x);
+        var exchanges = await Get<MarketStackExchange[], MarketStackExchange>("v2/exchanges", x => x);
         return exchanges.Select(x =>
             new Exchange
             {
@@ -44,7 +48,7 @@ public class MarketStackClient : IMarketStackClient
     public async Task<IEnumerable<Instrument>> GetExchangeTickers(string exchangeSourceSymbol)
     {
         var exchanges = await Get<MarketStackExchangeTickers, MarketStackInstrument>(
-            $"v1/exchanges/{exchangeSourceSymbol}/tickers",
+            $"v2/exchanges/{exchangeSourceSymbol}/tickers",
             x => x.Tickers);
         return exchanges.Select(x =>
             new Instrument
@@ -58,7 +62,7 @@ public class MarketStackClient : IMarketStackClient
     public async Task<IEnumerable<DailyPrice>> GetDailyPrices(string tickerSourceSymbol, DateOnly from, DateOnly to)
     {
         var prices = await Get<MarketStackDailyPrice[], MarketStackDailyPrice>(
-            $"v1/eod",
+            $"v2/eod",
             new Dictionary<string, string>
             {
                 { "symbols", tickerSourceSymbol },
@@ -70,7 +74,7 @@ public class MarketStackClient : IMarketStackClient
         return prices.Select(x =>
             new DailyPrice
             {
-                Date = x.Date,
+                Date = DateOnly.FromDateTime(x.Date.Date),
                 Open = x.Open,
                 Close = x.Close,
                 High = x.High,
@@ -110,7 +114,7 @@ public class MarketStackClient : IMarketStackClient
             using var response = await _httpClient.GetAsync(fullUri);
             await ValidateResponse(response);
 
-            var marketDataResponse = await response.Content.ReadFromJsonAsync<MarketDataResponse<TData>>()
+            var marketDataResponse = await response.Content.ReadFromJsonAsync<MarketDataResponse<TData>>(SerializerOptions)
                 ?? throw new InvalidOperationException("Unable to deserialize");
             yield return marketDataResponse;
 
@@ -128,5 +132,15 @@ public class MarketStackClient : IMarketStackClient
         var error = await response.Content.ReadFromJsonAsync<MarketStackError>() ??
             throw new InvalidOperationException("Unable to deserialise");
         throw new MarketStackException(error);
+    }
+
+    private static JsonSerializerOptions MarketStackSerializerOptions()
+    {
+        var settings = new JsonSerializerOptions
+        {
+            PropertyNamingPolicy = JsonNamingPolicy.CamelCase
+        };
+        settings.Converters.Add(new CustomDateTimeOffsetConverter());
+        return settings;
     }
 }
