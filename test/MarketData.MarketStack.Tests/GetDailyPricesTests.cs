@@ -20,38 +20,15 @@ public class GetDailyPricesTests
         await Verify(dailyPrices);
     }
 
-    [Fact]
-    public void Des()
+    [Fact(Skip = "Manual")]
+    public async Task GetDailyPrices_Manual()
     {
-        var settings = new JsonSerializerOptions
-        {
-            PropertyNamingPolicy = JsonNamingPolicy.CamelCase
-        };
-        settings.Converters.Add(new CustomDateTimeOffsetConverter());
-        var text = """
-            {
-                "open": 1190.0,
-                "high": 1190.0,
-                "low": 1170.0,
-                "close": 1170.0,
-                "volume": 434.0,
-                "adj_high": null,
-                "adj_low": null,
-                "adj_close": 1170.0,
-                "adj_open": null,
-                "adj_volume": null,
-                "split_factor": 1.0,
-                "dividend": 0.0,
-                "name": "L\u00e5n \u0026amp; Spar Bank A\/S",
-                "exchange_code": null,
-                "asset_type": null,
-                "price_currency": "DKK",
-                "symbol": "LASP.CO",
-                "exchange": "XCSE",
-                "date": "2025-10-31T00:00:00+0000"
-            }
-            """;
+        var query = new MarketStackClient(
+            new HttpClient() { BaseAddress = new Uri("http://api.marketstack.com/") },
+            new MarketStackClientConfig { AccessToken = Settings.AccessToken, RequestLimit = 1000 }) as IGetDailyPrices;
 
-        var price = JsonSerializer.Deserialize<MarketStackDailyPrice>(text, settings);
+        var dailyPrices = await query.GetDailyPrices("VZLA", new DateOnly(2020, 11, 18), new DateOnly(2025, 11, 18));
+
+        var json = JsonSerializer.Serialize(dailyPrices);
     }
 }
